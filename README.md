@@ -1,4 +1,4 @@
-#NavigationBarJS
+# NavigationBarJS
 A simple navigation-bar.
 
 ## Options
